@@ -32,10 +32,10 @@ Production:
         sleep 10
     - run: |
         echo "🚀 Step 3..."
-          sleep 10
-      - run: |
-          echo "🚀 Step 4..."
-          sleep 10
-      - run: |
-          echo "🚀 Step 5..."
-          sleep 10
+        sleep 10
+    - run: |
+        echo "🚀 Step 4..."
+        sleep 10
+    - run: |
+        echo "🚀 Step 5..."
+        sleep 10
